@@ -1,0 +1,18 @@
+---
+shc
+-- interchangeably configurable shell compiler
+---- supersedes ://shm
+---
+Use
+-- provides more advanced distribution options for sh scripts 
+---- by adding a compilation layer
+-- uses `Syntax Files` to compile custom syntax back to POSIX sh
+---- allows for custom features, short-hands, style enforcement and more
+---
+Plans
+-- configurable compiler options
+---- options to enable/disable features
+-- 100% reconfigurable
+---- `Syntax Files` allow configuration of everything
+---- compile any code base to shell!
+---
